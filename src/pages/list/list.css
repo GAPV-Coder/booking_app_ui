@@ -42,6 +42,7 @@
     height: 30px;
     border: none;
     padding: 5px;
+    outline: none;
   }
   .lsItem>span{
     height: 30px;
@@ -50,6 +51,7 @@
     display: flex;
     align-items: center;
     cursor: pointer;
+    outline: none;
   }
   
   .lsOptions{
@@ -66,6 +68,7 @@
   
   .lsOptionInput{
     width: 50px;
+    outline: none;
   }
   
   .listSearch>button{
