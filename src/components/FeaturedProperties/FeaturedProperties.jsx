@@ -7,7 +7,7 @@ const FeaturedProperties = () => {
 		"http://localhost:8800/api/hotels?featured=true&limit=4"
 	);
 
-	console.log("FEATURED PROPERTIES", data);
+	// console.log("FEATURED PROPERTIES", data);
 
 	return (
 		<div className="fp">
